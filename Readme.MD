@@ -11,3 +11,4 @@ alias nextfeature='
   git checkout -b "$BRANCH";
   echo "$BRANCH created and checked out."
 '
+#add this to .bashrc file
