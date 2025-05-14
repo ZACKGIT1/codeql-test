@@ -1,4 +1,5 @@
-name: CodeQl testing
+
+name: CI Pipeline
 
 on:
   push:
